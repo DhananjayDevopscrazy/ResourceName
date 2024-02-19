@@ -1,5 +1,6 @@
-resource "azurerm_resource_group" "example" {
- for_each = var.RGname
+resource "azurerm_resource_group" "RG" {
+    for_each = var.Rgnames
+
   name     = each.value.name
   location = each.value.location
 }

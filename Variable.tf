@@ -1,3 +1,3 @@
-variable "RGname" {
+variable "Rgnames" {
   
 }
