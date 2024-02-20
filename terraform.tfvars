@@ -8,4 +8,8 @@ Rgnames ={
         name     = "DKRG2"
   location = "West Europe" 
     },
+ rg2 = {
+        name     = "DKRG3"
+  location = "West Europe" 
+    }
 }
