@@ -8,7 +8,7 @@ Rgnames ={
         name     = "DKRG2"
   location = "West Europe" 
     },
- rg2 = {
+ rg3 = {
         name     = "DKRG3"
   location = "West Europe" 
     }
